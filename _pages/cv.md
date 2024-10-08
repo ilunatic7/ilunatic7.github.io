@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electronic information, Tian University, China, 2026(expected)
+* B.S. in Electronic information science and technology, Wuhan University of Technology, Chain, 2023
 
 Work experience
 ======
@@ -34,10 +33,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* IELTs ..
+* Programming
+  * Python
+  * C/C++
   * Sub-skill 2.3
 * Skill 3
 
